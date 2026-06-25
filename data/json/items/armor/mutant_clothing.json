@@ -30,6 +30,7 @@
   {
     "id": "tailwrap",
     "type": "ITEM",
+    "subtypes": [ "ARMOR" ],
     "name": { "str": "tailwrap" },
     "description": "Assorted cloth strips wrapped around the tail for warmth.  Slightly better than nothing.",
     "weight": "69 g",
